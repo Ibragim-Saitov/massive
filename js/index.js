@@ -36,10 +36,3 @@ em.unshift('Huawei')
 em.splice(0,1)
 em.splice(5,6)
 
-//6
-
-let number = [1, 3, 5, 7, 9]
-
-let evenNumbers = number.map(num => num + 1);
-
-console.log(evenNumbers)
